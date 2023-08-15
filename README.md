@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RuchikaBagal
-- 👀 I’m interested in HTML, SQL, Pyhton
-- 🌱 I’m currently learning HTML
 - 📫 reach me at https://www.linkedin.com/in/ruchika-bagal-231a09191
 
 <!---
